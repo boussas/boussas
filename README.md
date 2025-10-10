@@ -14,7 +14,6 @@
 
 <!-- <img src="https://github.com/boussas/boussas/blob/main/assets/dynamic.gif?raw=true" width="330" align="right"/> -->
 
-<br><br>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -49,8 +48,8 @@
   <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux"/>
 </p>
 
-<br>
-<br>
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
