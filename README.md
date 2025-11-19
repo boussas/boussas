@@ -55,13 +55,14 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 
+<div align="center" style="display: flex; justify-content: center; gap: 50px;"> 
+
   <a href="https://github.com/boussas"> 
-    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=boussas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-  </a>
-  <a  href="https://github.com/boussas/convoychat">
-    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=boussas&layout=compact&langs_count=8&theme=tokyonight"/> 
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=boussas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=boussas&layout=compact&langs_count=8&theme=tokyonight"/> 
   </a>
 
+</div>
 
 
 
