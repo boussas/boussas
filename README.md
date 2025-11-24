@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql"/>
   <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-05122A.svg?logo=aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>
   <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux"/>
 </p>
