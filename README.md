@@ -33,7 +33,8 @@
   <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>
   <img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss"/><br>
+  <img src="https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss"/>
+  <img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap"/><br>
 
   <!-- Backend -->
   <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js"/>
@@ -44,7 +45,7 @@
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql"/>
   <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices"/>
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>
   <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux"/>
 </p>
