@@ -8,7 +8,7 @@
 
 <p align="left">
   💡 I enjoy learning about new technologies and building software.<br>
-  🎓 I’m currently a 3rd-year software engineering student at the <b>Mohammed VI International Academy of Civil Aviation (AIAC)</b>.
+  🎓 I’m currently a final-year software engineering student at the <b>Mohammed VI International Academy of Civil Aviation (AIAC)</b>.
   
   <img src="https://github.com/boussas/boussas/blob/main/assets/coding.gif?raw=true" width="120" align="right" />
 </p>
