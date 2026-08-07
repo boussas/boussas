@@ -1,4 +1,4 @@
-<h3 align="center">I am Mohamed Boussas — A passionate software engineering student.</h3>
+<h3 align="center">I am Mohamed Boussas — A passionate software engineer.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=boussas&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed Boussas" />
@@ -8,7 +8,6 @@
 
 <p align="left">
   💡 I enjoy learning about new technologies and building software.<br>
-  🎓 I’m currently a final-year software engineering student at the <b>Mohammed VI International Academy of Civil Aviation (AIAC)</b>.
   
   <img src="https://github.com/boussas/boussas/blob/main/assets/coding.gif?raw=true" width="120" align="right" />
 </p>
